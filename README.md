@@ -1,4 +1,5 @@
 Hi 👋, I'm RANA MUHAMMAD HAMZA
+<code style="color : #f03c15">MERN Stack Developer</code>👨‍💼
 <h4>
   I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) ,Node Js, ExpressJS, Web Applications & GraphQL. My interest in the MERN stack.
 </h4>
