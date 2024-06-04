@@ -2,10 +2,9 @@
   <h1 align="center">Hi 👋, I'm Rana Muhammad Hamza</h1>
 <h3 align="center">A passionate MERN stack developer</h3>
 <span>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RMHamzaArif89=&show_icons=true&theme=radical)
     <a href="https://fb.com/rana muhammad hamza" target="blank"><img align="center" src="https://cdn.dribbble.com/userupload/3898109/file/original-1e15ac48305378a87fc4997b2ad4c0ee.gif" alt="rana muhammad hamza" height="300" width="400" /></a>
 </span>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RMHamzaArif89&show_icons=true)
+
 - 🔭 I’m currently working on [House Booking Project](https://github.com/RMHamzaArif89/MERN_Pro4_HouseBooking_App)
 
 - 🌱 I’m currently learning **Redux,NextJs**
