@@ -5,7 +5,7 @@ Hi 👋, I'm RANA MUHAMMAD HAMZA
 </h4>
 
 <span>
-    <a href="https://fb.com/rana muhammad hamza" target="blank"><img align="center" src="https://cdn.dribbble.com/userupload/3898109/file/original-1e15ac48305378a87fc4997b2ad4c0ee.gif" alt="rana muhammad hamza" height="300" width="400" /></a><span >A passionate MERN stack developer</span>
+    <a href="https://fb.com/rana muhammad hamza" target="blank"><img align="center" src="https://media.licdn.com/dms/image/D4D16AQEt5xgbNP-Zjg/profile-displaybackgroundimage-shrink_350_1400/0/1717941244928?e=1723680000&v=beta&t=0uO0qdwVB0OU-0DWmr26Jr7kxyAuDz3RkyQAQe_ibik" alt="rana muhammad hamza" height="300" width="400" /></a><span >A passionate MERN stack developer</span>
 </span>
 </span>
 
