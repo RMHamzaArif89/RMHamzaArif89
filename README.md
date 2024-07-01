@@ -20,7 +20,7 @@ Hi 👋, I'm RANA MUHAMMAD HAMZA
 
 - 📫 How to reach me **ranahamzaisonline@gmail.com**
 
-- ⚡ Fun fact **i love to code & make projects**
+- ⚡ Fun fact **i like to code & make projects**
 
 
 <h3 align="left">Connect with me:</h3>
